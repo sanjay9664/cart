@@ -16,3 +16,6 @@ const Amazon = ({handleClick}) => {
 };
 
 export default Amazon;
+
+
+{/* <data></data> */}
